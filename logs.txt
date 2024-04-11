@@ -1,0 +1,29 @@
+commit 6b8ef8b3cb524ec25745e21dfd95f7c87f9170c8
+Author: Leona <leona.negrioska@students.finki.ukim.mk>
+Date:   Thu Apr 11 22:59:22 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 9123de4e9feb9159bd56ab69d0a8f7350a9ebf95
+Author: Leona <leona.negrioska@students.finki.ukim.mk>
+Date:   Thu Apr 11 23:07:21 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit 47a2c8788af635a6f017b78a51c94af3d2cdc866
+Author: Leona <leona.negrioska@students.finki.ukim.mk>
+Date:   Thu Apr 11 22:57:31 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 04e4c0528ab300702bb030f4d088515fd88e459b
+Author: Leona <leona.negrioska@students.finki.ukim.mk>
+Date:   Thu Apr 11 22:41:22 2024 +0200
+
+    Add starter code
+
+commit 2f35d787576f1b0ba1f1b3798981b0d981433a18
+Author: Leona <leona.negrioska@students.finki.ukim.mk>
+Date:   Thu Apr 11 22:34:01 2024 +0200
+
+    Initial commit
